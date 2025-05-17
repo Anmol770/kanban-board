@@ -31,7 +31,7 @@ https://anmol770.github.io/kanban-board/
    npm run dev
    ```
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+4. After the development server starts, look for the localhost URL in your terminal output (usually something like http://localhost:3000). Hold down the Ctrl key (or Cmd key on Mac) and click the URL to open the app in your default web browser.
 
 ---
 
